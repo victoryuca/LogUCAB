@@ -93,7 +93,7 @@ CREATE TABLE empleado(
 	cedula integer NOT NULL,
 	nombre varchar(30) NOT NULL,
 	apellido varchar(30) NOT NULL,
-	email_persona varchar(30) NOT NULL,
+	email_personal varchar(30) NOT NULL,
 	email_empresa varchar(30) NOT NULL,
 	fecha_nac varchar(30) NOT NULL,
 	nivel_academico varchar(30) NOT NULL,
